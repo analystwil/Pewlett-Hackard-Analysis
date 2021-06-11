@@ -20,7 +20,7 @@ To determine the number of retiring employees per title and identify employees w
 
 ## Summary
 
-Below you will see my analysis on how many rolls that will need to be filled as the "silver tsunami" begins to make an impact.
+Below you will see my analysis on how many roles that will need to be filled as the "silver tsunami" begins to make an impact.
 
 The figure below shows how many roles will need to be filled in each Department between January 1, 1952 and December 31, 1955
 
